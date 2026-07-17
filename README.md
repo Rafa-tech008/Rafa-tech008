@@ -5,6 +5,8 @@ Sou Rafael.
 
 💻 Tecnologias: Python, Assembly e Pseudocódigo
 
+📖 Projetos: Portifólio ADS - Python e Assembly
+
 <!--
 **Rafa-tech008/Rafa-tech008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
