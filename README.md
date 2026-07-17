@@ -1,4 +1,9 @@
-## Hi there 👋
+#Olá!
+#Sou Rafael.
+
+#🎓 ADS - Fatec Zona Leste
+
+#Tecnologias: Python, Assembly e Pseudocódigo
 
 <!--
 **Rafa-tech008/Rafa-tech008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
