@@ -1,11 +1,23 @@
-👋 Olá!
-Sou Rafael.
+## 👋 Olá! 
+Eu me chamo Rafael!
 
-🎓 ADS - Fatec Zona Leste
+## 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Fatec Zona Leste.
 
-💻 Tecnologias: Python, Assembly e Pseudocódigo
+## 💻 Tecnologias
+- Python;
+- Assembly;
+- Git e github;
+- Pseudocódigo;
 
-📖 Projetos: Portifólio ADS - Python e Assembly
+## 📖 Projetos
+- Portifólio ADS;
+- Projetos em Python
+- Projetos em Assembly;
+
+## 🎯 Atualmente
+- Cursando ADS;
+- Aprimorando conhecimentos em desenvolvimento de software;
+- Construindo meu portfólio profissional;
 
 <!--
 **Rafa-tech008/Rafa-tech008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
