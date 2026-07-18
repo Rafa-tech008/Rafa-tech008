@@ -4,7 +4,7 @@
 Utilizo este GitHub para compartilhar projetos acadêmicos e acompanhar minha evolução durante a graduação.
 
 ## 💻 Tecnologias
--🐧 Linux;
+- 🐧Linux;
 - 🐍Python;
 - 🌐Git e github;
 - ⚙️Assembly MIPS;
